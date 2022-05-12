@@ -21,10 +21,9 @@ using namespace chrono;
 #define MOD                     1000000007
 #define PI                      3.141592653589793238462
 #define ps(x,y)                 fixed<<setprecision(y)<<x // if x double and we need precision till y decimal places
-#define mk(arr,n,type)          type *arr = new type[n]
 #define w(tt)                   int tt; cin>>tt; while(tt--) //for multiple test cases
-#define nPerm(a,n)              next_permutation(a,a+n)
 #define rep(i,a,b)              for(int i = a; i < b; i++)
+#define trav(a,x)               for(auto &a: x)
 #define all(x)                  x.begin(), x.end()
 #define rall(x)                 x.rbegin(), x.rend()
 
@@ -85,10 +84,9 @@ ll mod_sub(ll a, ll b, ll m) {a = a % m; b = b % m; return (((a - b) % m) + m) %
 
 /*---------------------------------------------------------------------------------------------------------------------------*/
 
+
 void solve() {
-    w(tt) {
-        cout << 1 << nline;
-    }
+    // write your code here
 }
 
 int main() {
