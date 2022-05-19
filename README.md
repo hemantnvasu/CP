@@ -19,11 +19,10 @@ Step 2: Install Sublime text 3
 
 Step 3: Install Packages from Package Manager (ctrl + shift + p)
 
-1.Install Package
-2."package name"
-
-i.  AstyleFormatter - go to this package settings and check true for "format on save" for Auto Spacing on Save
-ii. cppFastOlympicCoding
+1. Install Package
+2. Write "package name"
+3. AstyleFormatter - go to this package settings and check true for "format on save" for Auto Spacing on Save
+4. cppFastOlympicCoding
 
 Step 4: Compile and Run the Code
 take the sample code from github, write something and run using ctrl + shift + B
