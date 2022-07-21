@@ -1,15 +1,15 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void c_p_c()
-{
-	ios::sync_with_stdio(0);
-	cin.tie(0);
-	cout.tie(0);
-}
+#define fastio() ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
+#define ll 		long long
+#define nline 		'\n'
 
 int main()
 {
-	c_p_c();
+	fastio();
+
+	// Write your code here
+
 	return 0;
 }
